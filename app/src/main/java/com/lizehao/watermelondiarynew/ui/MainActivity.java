@@ -75,6 +75,7 @@ public class MainActivity extends AppCompatActivity {
 
     /**
      * 标识今天是否已经写了日记
+     * 
      */
     private boolean isWrite = false;
     private static TextView mTvTest;
